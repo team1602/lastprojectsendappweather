@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lastprojectsendappweather/static/css/main.44abccef.css",
+    "main.js": "/lastprojectsendappweather/static/js/main.f54c9ec3.js",
+    "static/js/787.bf3961bc.chunk.js": "/lastprojectsendappweather/static/js/787.bf3961bc.chunk.js",
+    "index.html": "/lastprojectsendappweather/index.html",
+    "main.44abccef.css.map": "/lastprojectsendappweather/static/css/main.44abccef.css.map",
+    "main.f54c9ec3.js.map": "/lastprojectsendappweather/static/js/main.f54c9ec3.js.map",
+    "787.bf3961bc.chunk.js.map": "/lastprojectsendappweather/static/js/787.bf3961bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44abccef.css",
+    "static/js/main.f54c9ec3.js"
+  ]
+}
